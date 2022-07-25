@@ -7,6 +7,6 @@
 - ejs
 
 ## Developed by
- **Ravi** 
+ **Ravi Teja** 
 
 ## Give me a ⭐
