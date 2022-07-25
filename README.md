@@ -7,6 +7,6 @@
 - ejs
 
 ## Developed by
- **Sindhu inti** 
+ **Ravi** 
 
 ## Give me a ⭐
